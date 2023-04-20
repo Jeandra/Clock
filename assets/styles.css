@@ -61,22 +61,7 @@ body {
     background: #127fd6;
     text-transform: uppercase;
 }
-
+/*
 #clock #time div:nth-last-child(2) span {
-    background: #ff006a;
-}
-
-#clock #time div:nth-last-child(2) span:nth-child(2) {
-    background: #ec0062;
-}
-
-#clock #time div:nth-last-child(1) span {
-    position: absolute;
-    bottom: 0;
-    width: 60px;
-    height: 40px;
-    font-size: 1.5em;
-    background: #000;
-    color: #fff;
-    -webkit-box-reflect: below 1px linear-grandient(transparent, #0004);
-}
+    background: #127fd6;
+} */
